@@ -8,6 +8,27 @@ For a foreign national to apply for H1-B visa, a US employer must offer them a j
 It is very important for an employer and employee to know if the LCA application will be approved/ certified for visa. Through this project, a definite answer to this question will be predicted.
 
 Python files:
+
 1 Initial Study of Data.ipynb: first python file for choosing columns from original data
+
 2 Data Wrangling.ipynb: python file to analyze and wrangle the data in the selected columns from the first file
+
 3 Building Models.ipynb: python file containing the final model and prediction analysis
+
+
+
+
+Excel files:
+
+H-1B_Disclosure_Data_FY2019: Original data file for fiscal year 2019
+
+selected_data.csv: outcome of "1 Initial Study of Data.ipynb"
+
+for analysis.csv: outcome of "2 Data Wrangling.ipynb"
+
+soc_to_stem.csv: used to carry out SOC to Stem conversions
+
+Attachment_C_STEM_2018: File containing actual SOC codes for stem which helped constitute soc_to_stem.csv
+
+Class Membership.csv: Final outcome of the project with predicted y values and predicted probablities.
+
