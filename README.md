@@ -20,15 +20,5 @@ Python files:
 
 Excel files:
 
-H-1B_Disclosure_Data_FY2019: Original data file for fiscal year 2019
-
-selected_data.csv: outcome of "1 Initial Study of Data.ipynb"
-
-for analysis.csv: outcome of "2 Data Wrangling.ipynb"
-
-soc_to_stem.csv: used to carry out SOC to Stem conversions
-
-Attachment_C_STEM_2018: File containing actual SOC codes for stem which helped constitute soc_to_stem.csv
-
 Class Membership.csv: Final outcome of the project with predicted y values and predicted probablities.
 
