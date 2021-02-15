@@ -19,5 +19,6 @@ Python files:
 Excel files:
 
 Class Membership.csv: Final outcome of the project with predicted y values and predicted probablities.
+
 soc_to_stem.csv: used to carry out SOC to Stem conversions
 
