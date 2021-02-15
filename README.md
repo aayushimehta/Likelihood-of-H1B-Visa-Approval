@@ -1,4 +1,4 @@
-# Likelihood-of-H1B-Visa-Approval
+# Likelihood-of-H1B-Visa-LCA-Approval
 
 Introduction - Learning the Domain:
 The US H-1B visa is a non-immigrant visa that allows US companies to temporarily employ foreign workers in specialty occupations. A specialty occupation requires a specialized knowledge and a bachelor's degree or equivalent work experience in areas such as information technology (IT), finance, accounting, architecture, engineering, mathematics, science, medicine, etc. A LCA (Labor Condition Application) is a mandatory document that the H1B Sponsor / employer needs to file with US Department of Labor before they file the H1B petition with USCIS for any non-immigrant worker.
