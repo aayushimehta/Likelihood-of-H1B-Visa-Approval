@@ -22,3 +22,11 @@ Class Membership.csv: Final outcome of the project with predicted y values and p
 
 soc_to_stem.csv: used to carry out SOC to Stem conversions
 
+Data Source:
+The source of data is the United States Department of Labour government website. In carrying out its responsibility for the processing of prevailing wage, labor certification, and labor attestation applications, the Office of Foreign Labor Certification (OFLC) generates an extensive amount of program data. But this data is very messy with 260 columns. I have collected the data file for applications attended in the reporting period of one year (from October 1, 2018, through September 30, 2019) which contains more than 36M data entries with over 260 features.
+
+Data Source: https://www.foreignlaborcert.doleta.gov/pdf/PerformanceData/2019/H-1B_Disclosure_Data_FY2019.xlsx (270MB) 
+
+Column metadata: https://www.foreignlaborcert.doleta.gov/pdf/PerformanceData/2020/H-1B_H-1B1_E-3_Record_Layout.pdf
+
+LCA form: https://www.foreignlaborcert.doleta.gov/pdf/eta_form_9035.pdf
